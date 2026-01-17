@@ -1,16 +1,28 @@
-## Hi there 👋
+# Михаил — Backend-developer
+ 
+~10 месяцев коммерческого опыта в реальных проектах
 
-<!--
-**curstfear/curstfear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Создаю надёжные веб-приложения и API, от проектирования базы данных до чистого, тестируемого кода в продакшене.
 
-Here are some ideas to get you started:
+## Основной стек
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- PHP 8+ 
+- Laravel 8–12  
+- MySQL / PostgreSQL
+- Eloquent ORM • Query Builder   
+- PHPUnit — feature, unit тесты  
+- Docker  
+- Git • GitHub Flow
+- CI/CD   
+- Blade + Tailwind
+- Очереди (Database / Redis)
+
+## Что делаю на проектах
+
+- Полный цикл backend-разработки (от идеи до продакшена)  
+- Проектирование и нормализация баз данных (5–70+ таблиц)
+- Разработка и документирование REST API  
+- Написание автоматических тестов
+- Рефакторинг legacy-кода под современный Laravel  
+- Настройка dev/prod окружений через Docker/Sail  
+- Немного DevOps
